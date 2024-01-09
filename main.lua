@@ -9,9 +9,9 @@ client:on('ready',function()
     print("logged in as "..client.user.username)
 end)
 
-client:on('messageCreate',function(msg)
-    if msg.content == "!ping" then
-        msg.channel:send("pong")
+client:on('messageCreate',function(message)
+    if message.content == '!ping' then
+        message.channel:send('pong')
     end
 end)
 
