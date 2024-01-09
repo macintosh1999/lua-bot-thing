@@ -133,3 +133,319 @@
 2024-01-09 13:21:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2024-01-09 13:21:38 | [INFO]    | Shard 0 : Received HELLO
 2024-01-09 13:21:39 | [INFO]    | Shard 0 : Received READY
+2024-01-09 13:42:10 | [INFO]    | Discordia 2.11.2
+2024-01-09 13:42:10 | [INFO]    | Connecting to Discord...
+2024-01-09 13:42:10 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 13:42:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 13:42:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 13:42:11 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 13:42:11 | [INFO]    | Shard 0 : Received READY
+2024-01-09 13:42:49 | [INFO]    | Discordia 2.11.2
+2024-01-09 13:42:49 | [INFO]    | Connecting to Discord...
+2024-01-09 13:42:50 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 13:42:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 13:42:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 13:42:50 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 13:42:51 | [INFO]    | Shard 0 : Received READY
+2024-01-09 13:44:26 | [INFO]    | Discordia 2.11.2
+2024-01-09 13:44:26 | [INFO]    | Connecting to Discord...
+2024-01-09 13:44:26 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 13:44:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 13:44:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 13:44:27 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 13:44:27 | [INFO]    | Shard 0 : Received READY
+2024-01-09 13:45:07 | [INFO]    | Discordia 2.11.2
+2024-01-09 13:45:07 | [INFO]    | Connecting to Discord...
+2024-01-09 13:45:07 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 13:45:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 13:45:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 13:45:08 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 13:45:08 | [INFO]    | Shard 0 : Received READY
+2024-01-09 14:33:23 | [INFO]    | Discordia 2.11.2
+2024-01-09 14:33:23 | [INFO]    | Connecting to Discord...
+2024-01-09 14:33:24 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 14:33:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 14:33:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 14:33:25 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 14:33:26 | [INFO]    | Shard 0 : Received READY
+2024-01-09 14:36:56 | [INFO]    | Discordia 2.11.2
+2024-01-09 14:36:56 | [INFO]    | Connecting to Discord...
+2024-01-09 14:36:56 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 14:36:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 14:36:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 14:36:57 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 14:36:57 | [INFO]    | Shard 0 : Received READY
+2024-01-09 14:41:42 | [INFO]    | Discordia 2.11.2
+2024-01-09 14:41:42 | [INFO]    | Connecting to Discord...
+2024-01-09 14:41:43 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 14:41:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 14:41:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 14:41:43 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 14:41:44 | [INFO]    | Shard 0 : Received READY
+2024-01-09 14:42:10 | [ERROR]   | 403 - Forbidden : PUT https://discord.com/api/v8/guilds/1194195177410138143/bans/900439686013665291
+2024-01-09 14:43:33 | [INFO]    | Discordia 2.11.2
+2024-01-09 14:43:33 | [INFO]    | Connecting to Discord...
+2024-01-09 14:43:33 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 14:43:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 14:43:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 14:43:34 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 14:43:34 | [INFO]    | Shard 0 : Received READY
+2024-01-09 14:43:40 | [ERROR]   | 403 - Forbidden : PUT https://discord.com/api/v8/guilds/1194195177410138143/bans/900439686013665291
+2024-01-09 14:43:58 | [INFO]    | Discordia 2.11.2
+2024-01-09 14:43:58 | [INFO]    | Connecting to Discord...
+2024-01-09 14:43:59 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 14:43:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 14:43:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 14:43:59 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 14:44:00 | [INFO]    | Shard 0 : Received READY
+2024-01-09 14:49:02 | [INFO]    | Discordia 2.11.2
+2024-01-09 14:49:02 | [INFO]    | Connecting to Discord...
+2024-01-09 14:49:02 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 14:49:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 14:49:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 14:49:03 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 14:49:03 | [INFO]    | Shard 0 : Received READY
+2024-01-09 14:54:04 | [INFO]    | Discordia 2.11.2
+2024-01-09 14:54:04 | [INFO]    | Connecting to Discord...
+2024-01-09 14:54:05 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 14:54:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 14:54:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 14:54:06 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 14:54:06 | [INFO]    | Shard 0 : Received READY
+2024-01-09 14:54:58 | [INFO]    | Discordia 2.11.2
+2024-01-09 14:54:58 | [INFO]    | Connecting to Discord...
+2024-01-09 14:54:59 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 14:54:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 14:54:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 14:54:59 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 14:55:00 | [INFO]    | Shard 0 : Received READY
+2024-01-09 14:55:49 | [INFO]    | Discordia 2.11.2
+2024-01-09 14:55:49 | [INFO]    | Connecting to Discord...
+2024-01-09 14:55:49 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 14:55:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 14:55:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 14:55:50 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 14:55:50 | [INFO]    | Shard 0 : Received READY
+2024-01-09 14:57:07 | [INFO]    | Discordia 2.11.2
+2024-01-09 14:57:07 | [INFO]    | Connecting to Discord...
+2024-01-09 14:57:08 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 14:57:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 14:57:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 14:57:08 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 14:57:09 | [INFO]    | Shard 0 : Received READY
+2024-01-09 14:57:38 | [INFO]    | Discordia 2.11.2
+2024-01-09 14:57:38 | [INFO]    | Connecting to Discord...
+2024-01-09 14:57:39 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 14:57:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 14:57:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 14:57:39 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 14:57:40 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:01:47 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:01:47 | [INFO]    | Connecting to Discord...
+2024-01-09 15:01:48 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:01:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:01:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:01:48 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:01:49 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:01:49 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:01:49 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:01:49 | [INFO]    | Shard 0 : Reconnecting after 946 ms...
+2024-01-09 15:01:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:01:50 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:01:51 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:01:54 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:01:55 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:01:55 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:01:55 | [INFO]    | Shard 0 : Reconnecting after 2029 ms...
+2024-01-09 15:03:21 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:03:21 | [INFO]    | Connecting to Discord...
+2024-01-09 15:03:22 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:03:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:03:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:03:22 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:03:23 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:03:23 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:03:23 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:03:23 | [INFO]    | Shard 0 : Reconnecting after 941 ms...
+2024-01-09 15:03:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:03:25 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:03:25 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:03:36 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:03:36 | [INFO]    | Connecting to Discord...
+2024-01-09 15:03:37 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:03:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:03:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:03:37 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:03:38 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:03:38 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:03:38 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:03:38 | [INFO]    | Shard 0 : Reconnecting after 911 ms...
+2024-01-09 15:03:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:03:39 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:03:40 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:03:43 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:03:43 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:03:43 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:03:43 | [INFO]    | Shard 0 : Reconnecting after 2190 ms...
+2024-01-09 15:03:53 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:03:53 | [INFO]    | Connecting to Discord...
+2024-01-09 15:03:54 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:03:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:03:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:03:54 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:03:55 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:04:17 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:04:17 | [INFO]    | Connecting to Discord...
+2024-01-09 15:04:18 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:04:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:04:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:04:18 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:04:19 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:04:19 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:04:19 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:04:19 | [INFO]    | Shard 0 : Reconnecting after 990 ms...
+2024-01-09 15:04:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:04:20 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:04:21 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:04:24 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:04:24 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:04:24 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:04:24 | [INFO]    | Shard 0 : Reconnecting after 2014 ms...
+2024-01-09 15:04:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:04:27 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:04:27 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:04:29 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:04:30 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:04:30 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:04:30 | [INFO]    | Shard 0 : Reconnecting after 4015 ms...
+2024-01-09 15:04:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:04:34 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:04:34 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:04:37 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:04:37 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:04:37 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:04:37 | [INFO]    | Shard 0 : Reconnecting after 8472 ms...
+2024-01-09 15:04:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:04:46 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:04:47 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:04:49 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:04:49 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:04:49 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:04:49 | [INFO]    | Shard 0 : Reconnecting after 14805 ms...
+2024-01-09 15:05:17 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:05:17 | [INFO]    | Connecting to Discord...
+2024-01-09 15:05:17 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:05:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:05:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:05:18 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:05:18 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:05:19 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:05:19 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:05:19 | [INFO]    | Shard 0 : Reconnecting after 1039 ms...
+2024-01-09 15:05:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:05:20 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:05:20 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:07:16 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:07:16 | [INFO]    | Connecting to Discord...
+2024-01-09 15:07:17 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:07:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:07:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:07:17 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:07:17 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:07:18 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:07:18 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:07:18 | [INFO]    | Shard 0 : Reconnecting after 1010 ms...
+2024-01-09 15:07:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:07:19 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:07:19 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:07:23 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:07:23 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:07:23 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:07:23 | [INFO]    | Shard 0 : Reconnecting after 2133 ms...
+2024-01-09 15:07:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:07:26 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:07:26 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:07:29 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:07:29 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:07:29 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:07:29 | [INFO]    | Shard 0 : Reconnecting after 4396 ms...
+2024-01-09 15:07:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:07:34 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:07:34 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:07:39 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:07:39 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:07:39 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:07:39 | [INFO]    | Shard 0 : Reconnecting after 7394 ms...
+2024-01-09 15:07:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:07:47 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:07:47 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:07:49 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:07:50 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:07:50 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:07:50 | [INFO]    | Shard 0 : Reconnecting after 14769 ms...
+2024-01-09 15:08:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:08:05 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:08:05 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:08:10 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:08:10 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:08:10 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:08:10 | [INFO]    | Shard 0 : Reconnecting after 34200 ms...
+2024-01-09 15:08:43 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:08:43 | [INFO]    | Connecting to Discord...
+2024-01-09 15:08:44 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:08:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:08:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:08:45 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:08:45 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:08:45 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:08:45 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:08:45 | [INFO]    | Shard 0 : Reconnecting after 1052 ms...
+2024-01-09 15:08:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:08:47 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:08:47 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2024-01-09 15:08:50 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:08:51 | [WARNING] | Shard 0 : 4002 - Error while decoding payload.
+2024-01-09 15:08:51 | [INFO]    | Shard 0 : Disconnected
+2024-01-09 15:08:51 | [INFO]    | Shard 0 : Reconnecting after 1832 ms...
+2024-01-09 15:08:52 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:08:52 | [INFO]    | Connecting to Discord...
+2024-01-09 15:08:53 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:08:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:08:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:08:53 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:08:54 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:15:02 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:15:02 | [INFO]    | Connecting to Discord...
+2024-01-09 15:15:02 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:15:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:15:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:15:03 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:15:03 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:25:40 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:25:40 | [INFO]    | Connecting to Discord...
+2024-01-09 15:25:40 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:25:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:25:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:25:41 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:25:41 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:26:11 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:26:11 | [INFO]    | Connecting to Discord...
+2024-01-09 15:26:12 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:26:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:26:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:26:12 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:26:13 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:29:57 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:29:57 | [INFO]    | Connecting to Discord...
+2024-01-09 15:29:58 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:29:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:29:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:29:58 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:29:59 | [INFO]    | Shard 0 : Received READY
+2024-01-09 15:33:31 | [INFO]    | Discordia 2.11.2
+2024-01-09 15:33:31 | [INFO]    | Connecting to Discord...
+2024-01-09 15:33:31 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 15:33:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 15:33:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 15:33:33 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 15:33:33 | [INFO]    | Shard 0 : Received READY

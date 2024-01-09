@@ -36,8 +36,6 @@ client:on('messageCreate',function(message)
         local func = require("commands."..cmdName)
 
         if func then
-            print(table.concat(args))
-
             func(message,args)
         end
     end
