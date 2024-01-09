@@ -7,7 +7,7 @@ exists for the User class is also available in the UserPresence class and its
 subclasses.
 ]=]
 
-local null = require('json').null
+local null = require('deps.json').null
 local User = require('containers/User')
 local Activity = require('containers/Activity')
 local Container = require('containers/abstract/Container')

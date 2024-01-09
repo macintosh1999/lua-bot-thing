@@ -4,7 +4,7 @@
 simple content strings, rich embeds, attachments, or reactions.
 ]=]
 
-local json = require('json')
+local json = require('deps.json')
 local enums = require('enums')
 local constants = require('constants')
 local Cache = require('iterables/Cache')

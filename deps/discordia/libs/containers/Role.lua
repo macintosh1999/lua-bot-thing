@@ -4,7 +4,7 @@
 and a color to guild members.
 ]=]
 
-local json = require('json')
+local json = require('deps.json')
 local Snowflake = require('containers/abstract/Snowflake')
 local Color = require('utils/Color')
 local Permissions = require('utils/Permissions')

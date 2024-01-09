@@ -5,7 +5,7 @@ a guild, though they are not always permanent.
 ]=]
 
 local Container = require('containers/abstract/Container')
-local json = require('json')
+local json = require('deps.json')
 
 local format = string.format
 local null = json.null

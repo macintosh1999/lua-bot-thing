@@ -1,5 +1,5 @@
 local enums = require('enums')
-local json = require('json')
+local json = require('deps.json')
 
 local channelType = enums.channelType
 local insert = table.insert

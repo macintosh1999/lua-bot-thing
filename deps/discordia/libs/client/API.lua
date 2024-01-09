@@ -1,4 +1,4 @@
-local json = require('json')
+local json = require('deps.json')
 local timer = require('timer')
 local http = require('coro-http')
 local package = require('../../package.lua')

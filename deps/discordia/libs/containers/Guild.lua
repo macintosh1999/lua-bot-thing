@@ -18,7 +18,7 @@ local GuildVoiceChannel = require('containers/GuildVoiceChannel')
 local GuildCategoryChannel = require('containers/GuildCategoryChannel')
 local Snowflake = require('containers/abstract/Snowflake')
 
-local json = require('json')
+local json = require('deps.json')
 local enums = require('enums')
 
 local channelType = enums.channelType

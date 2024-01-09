@@ -4,7 +4,7 @@
 @d Defines the base methods and properties for all Discord guild channels.
 ]=]
 
-local json = require('json')
+local json = require('deps.json')
 local enums = require('enums')
 local class = require('class')
 local Channel = require('containers/abstract/Channel')

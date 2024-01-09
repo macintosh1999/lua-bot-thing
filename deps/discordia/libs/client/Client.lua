@@ -11,7 +11,7 @@ at any time. See [[client options]].
 ]=]
 
 local fs = require('fs')
-local json = require('json')
+local json = require('deps.json')
 
 local constants = require('constants')
 local enums = require('enums')

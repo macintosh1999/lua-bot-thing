@@ -1,4 +1,4 @@
-local json = require('json')
+local json = require('deps.json')
 local miniz = require('miniz')
 local Mutex = require('utils/Mutex')
 local Emitter = require('utils/Emitter')

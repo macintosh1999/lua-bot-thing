@@ -4,7 +4,7 @@
 standard and custom emojis can be used.
 ]=]
 
-local json = require('json')
+local json = require('deps.json')
 local Container = require('containers/abstract/Container')
 local SecondaryCache = require('iterables/SecondaryCache')
 local Resolver = require('client/Resolver')

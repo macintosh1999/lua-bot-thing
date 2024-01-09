@@ -5,7 +5,7 @@ one-way fashion. This class defines methods and properties for managing the
 webhook, not for sending messages.
 ]=]
 
-local json = require('json')
+local json = require('deps.json')
 local enums = require('enums')
 local Snowflake = require('containers/abstract/Snowflake')
 local User = require('containers/User')

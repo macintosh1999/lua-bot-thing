@@ -7,7 +7,7 @@ Standard unicode emojis do not have a class; they are just strings.
 local Snowflake = require('containers/abstract/Snowflake')
 local Resolver = require('client/Resolver')
 local ArrayIterable = require('iterables/ArrayIterable')
-local json = require('json')
+local json = require('deps.json')
 
 local format = string.format
 
