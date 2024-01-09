@@ -28,7 +28,7 @@ return function(message, args)
     end
 
     if sender.highestRole.position < target.highestRole.position then
-        message:newReply("You can't ban ' .. target.mentionString .. ' as they have a higher role than you.")
+        message:newReply("You can't ban " .. target.mentionString .. " as they have a higher role than you.")
 
         return
     end

@@ -16,7 +16,7 @@ return function(message,args)
                 },
                 {
                     name = ">ping",
-                    value = "Basic test command.",
+                    value = "Pong!",
                     inline = false
                 },
                 {
@@ -42,6 +42,11 @@ return function(message,args)
                 {
                     name = ">8ball",
                     value = "Let the magic 8 ball answer your question.",
+                    inline = false
+                },
+                {
+                    name = ">coin-flip",
+                    value = "Flips a coin.",
                     inline = false
                 },
             },

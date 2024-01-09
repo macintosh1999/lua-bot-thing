@@ -33,7 +33,15 @@ client:on('messageCreate',function(message)
 
         table.remove(args,1)
 
-        local func = require("commands."..cmdName)
+        local func
+
+        local success,response = pcall(function()
+            func = require("commands."..cmdName)
+        end)
+
+        if not success then
+            error(response)
+        end
 
         if func then
             func(message,args)
