@@ -6,12 +6,15 @@ local config = json.decode(configF:read("a"))
 local prefix = ">"
 configF:close()
 
+require("discordia-replies")()
+
 client:on('ready',function()
     print("logged in as "..client.user.username)
 end)
 
 client:on('messageCreate',function(message)
     if message.author.Bot then return end
+    if not message.guild then return end
 
     local cmd = string.lower(message.content)
     local m = message.member

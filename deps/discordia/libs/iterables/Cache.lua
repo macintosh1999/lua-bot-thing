@@ -4,7 +4,7 @@
 @d Iterable class that holds references to Discordia Class objects in no particular order.
 ]=]
 
-local json = require('deps.json')
+local json = require('json')
 local Iterable = require('iterables/Iterable')
 
 local null = json.null
@@ -140,7 +140,7 @@ end
 is not guaranteed.
 ]=]
 function Cache:iter()
-	local objects, k, obj = self._objects
+	local objects, k, obj = self._objects, nil, nil
 	return function()
 		k, obj = next(objects, k)
 		return obj

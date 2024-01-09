@@ -4,7 +4,7 @@
 @d Defines the base methods and properties for all Discord guild channels.
 ]=]
 
-local json = require('deps.json')
+local json = require('json')
 local enums = require('enums')
 local class = require('class')
 local Channel = require('containers/abstract/Channel')
@@ -15,7 +15,7 @@ local Resolver = require('client/Resolver')
 
 local isInstance = class.isInstance
 local classes = class.classes
-local channelType = enums.channelType
+local channelType = assert(enums.channelType)
 
 local insert, sort = table.insert, table.sort
 local min, max, floor = math.min, math.max, math.floor

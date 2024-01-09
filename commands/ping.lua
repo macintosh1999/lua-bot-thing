@@ -1,3 +1,3 @@
 return function(message,args)
-    message:reply("pong! yo args are: "..table.concat(args))
+    message:newReply("pong! args: "..table.concat(args))
 end

@@ -5,7 +5,7 @@ more than one and up to ten recipients. This class should only be relevant to
 user-accounts; bots cannot normally join group channels.
 ]=]
 
-local json = require('deps.json')
+local json = require('json')
 
 local TextChannel = require('containers/abstract/TextChannel')
 local SecondaryCache = require('iterables/SecondaryCache')

@@ -4,7 +4,7 @@
 and communicate via voice chat.
 ]=]
 
-local json = require('deps.json')
+local json = require('json')
 
 local GuildChannel = require('containers/abstract/GuildChannel')
 local VoiceConnection = require('voice/VoiceConnection')

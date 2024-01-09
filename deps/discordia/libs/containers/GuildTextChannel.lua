@@ -4,7 +4,7 @@
 can send and receive messages.
 ]=]
 
-local json = require('deps.json')
+local json = require('json')
 
 local GuildChannel = require('containers/abstract/GuildChannel')
 local TextChannel = require('containers/abstract/TextChannel')

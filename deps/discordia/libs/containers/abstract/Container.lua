@@ -6,7 +6,7 @@ structures. Container classes are constructed internally with information
 received from Discord and should never be manually constructed.
 ]=]
 
-local json = require('deps.json')
+local json = require('json')
 
 local null = json.null
 local format = string.format
