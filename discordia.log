@@ -12,3 +12,26 @@
 2024-01-09 10:49:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2024-01-09 10:49:11 | [INFO]    | Shard 0 : Received HELLO
 2024-01-09 10:49:11 | [INFO]    | Shard 0 : Received READY
+2024-01-09 10:59:40 | [WARNING] | Shard 0 : Unhandled gateway event: INVITE_CREATE
+2024-01-09 10:59:40 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_AUDIT_LOG_ENTRY_CREATE
+2024-01-09 11:22:17 | [INFO]    | Discordia 2.8.4
+2024-01-09 11:22:17 | [INFO]    | Connecting to Discord...
+2024-01-09 11:22:17 | [INFO]    | Authenticated as lua bot test#3378
+2024-01-09 11:22:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 11:22:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 11:22:18 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 11:22:18 | [INFO]    | Shard 0 : Received READY
+2024-01-09 11:23:37 | [INFO]    | Discordia 2.8.4
+2024-01-09 11:23:37 | [INFO]    | Connecting to Discord...
+2024-01-09 11:23:37 | [INFO]    | Authenticated as lua bot test#3378
+2024-01-09 11:23:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 11:23:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 11:23:38 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 11:23:38 | [INFO]    | Shard 0 : Received READY
+2024-01-09 11:25:07 | [INFO]    | Discordia 2.8.4
+2024-01-09 11:25:07 | [INFO]    | Connecting to Discord...
+2024-01-09 11:25:07 | [INFO]    | Authenticated as lua bot test#3378
+2024-01-09 11:25:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 11:25:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 11:25:08 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 11:25:08 | [INFO]    | Shard 0 : Received READY
