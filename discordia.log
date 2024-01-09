@@ -126,3 +126,10 @@
 2024-01-09 13:17:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2024-01-09 13:17:54 | [INFO]    | Shard 0 : Received HELLO
 2024-01-09 13:17:54 | [INFO]    | Shard 0 : Received READY
+2024-01-09 13:21:37 | [INFO]    | Discordia 2.11.2
+2024-01-09 13:21:37 | [INFO]    | Connecting to Discord...
+2024-01-09 13:21:38 | [INFO]    | Authenticated as Luey#3378
+2024-01-09 13:21:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-01-09 13:21:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-01-09 13:21:38 | [INFO]    | Shard 0 : Received HELLO
+2024-01-09 13:21:39 | [INFO]    | Shard 0 : Received READY
