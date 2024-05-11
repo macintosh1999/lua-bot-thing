@@ -1,7 +1,7 @@
 return function(message,args)
     message:newReply {
         embed = {
-            title = "Luey Help",
+            title = "Help",
             description = "Commands.",
             author = {
                 name = message.author.name,
